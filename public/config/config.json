@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0fDE4a9A2560219745F58884D1ed33a0637652Cc",
+  "SCAN_LINK": "https://etherscan.io/address/0x0fde4a9a2560219745f58884d1ed33a0637652cc",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Izumi Senju",
+  "SYMBOL": "SENJU",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/izumi-senju",
+  "SHOW_BACKGROUND": true
+}
